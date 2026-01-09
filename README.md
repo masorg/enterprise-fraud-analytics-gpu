@@ -79,11 +79,6 @@ pip install -r requirements.txt
 # The notebook will automatically extract it on first run
 ```
 
-5. **Launch Jupyter**:
-
-```bash
-jupyter lab
-```
 
 6. **Open and run**: `ieee_cis_banking_showcase_complex.ipynb`
 
